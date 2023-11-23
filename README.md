@@ -18,6 +18,7 @@ PostgreSQL
 Make sure to check the pom.xml file for a complete list of dependencies.
 
 # Project Folder Structure
+```
 src
 |-- main
 |   |-- java
@@ -35,6 +36,7 @@ src
 |   |       |-- Application.java
 |   |-- resources
 |       |-- application.properties
+```
 
 # Installation
 Clone the repository:
