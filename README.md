@@ -22,7 +22,7 @@ Make sure to check the pom.xml file for a complete list of dependencies.
 src
 |-- main
 |   |-- java
-|   |   |-- com.example
+|   |   |-- com.example.teamxx_password_hasher
 |   |       |-- controller
 |   |       |   |-- PasswordController.java
 |   |       |-- model
@@ -31,11 +31,11 @@ src
 |   |       |   |-- UserRepository.java
 |   |       |-- service
 |   |       |   |-- PasswordService.java
-|   |       |   |-- UserService.java
-|   |       |   |-- PasswordEncryptionService.java
-|   |       |-- Application.java
+|   |       |   |-- PasswordServiceImpl.java
+|   |       |-- TeamxxPasswordHasherApplication.java
 |   |-- resources
 |       |-- application.properties
+|-- test
 ```
 
 # Installation

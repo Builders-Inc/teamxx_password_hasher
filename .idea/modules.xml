@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Teamxx_Password_Hasher/Teamxx_Password_Hasher.iml" filepath="$PROJECT_DIR$/Teamxx_Password_Hasher/Teamxx_Password_Hasher.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/teamxx_password_hasher.iml" filepath="$PROJECT_DIR$/.idea/teamxx_password_hasher.iml" />
     </modules>
   </component>
